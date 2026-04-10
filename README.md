@@ -10,9 +10,9 @@ The goal is to compare the performance of two algorithms:
 ---
 # Repositry structure
 
-@ data_preprocessing.py
-@train_models.py
-@README.md
+'data_preprocessing.py'
+'train_models.py'
+'README.md'
 
 # Libraries need to reproduce findings
 Panda, Numpy, Matplotlib, Seaborn, joblib, scikit-learn.
@@ -31,11 +31,11 @@ Dataset
 
 ---
 
-## How to reproduce findings
+## Steps to reproduce finding.
 
 ### 1. Data Preprocessing
 ### 2. Models Used
 ### 3. Evaluation Metrics
 ---
-# Key finding
+# Key finding.
 Logistic Regression outperformed Naive Bayes across all metrics.
