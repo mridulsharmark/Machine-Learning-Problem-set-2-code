@@ -1,6 +1,6 @@
 # IMDB Sentiment Analysis using Machine Learning
 
-#Overview
+# Overview
 This project aims to classify IMDB movie reviews as **positive** or **negative** using machine learning models.  
 
 The goal is to compare the performance of two algorithms:
@@ -9,10 +9,10 @@ The goal is to compare the performance of two algorithms:
 
 ---
 # Repositry structure
-├── data_preprocessing.py
-├── train_models.py
-├── cleaned_imdb_dataset.csv
-├── README.md
+
+@ data_preprocessing.py
+@train_models.py
+@README.md
 
 # Libraries need to reproduce findings
 Panda, Numpy, Matplotlib, Seaborn, joblib, scikit-learn.
